@@ -1,5 +1,5 @@
-# Lock-Unlock-Laptop/PC-Screen-Using-Face-Recognition
-## Face ID-like feature for windows.
+# Your Face Is Key
+## Multifactor Face Authentication Technique.
 #### Kindly note that this program cannot be used as a serious authentication system for your laptop/PC. This has been designed only for general purposes. 
 
 I have been using this program and it works just fine for me.
